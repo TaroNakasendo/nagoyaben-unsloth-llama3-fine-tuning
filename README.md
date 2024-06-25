@@ -6,7 +6,7 @@ RUI様の[UnslothでLlama3をファインチューニングする](https://zenn.
 
 ## 動作環境
 
-WSL2 / NVIDIA GPU (3090 24GBで動作確認)
+WSL2 / miniconda / NVIDIA GPU (3090 24GBで動作確認)
 
 ## ライセンス
 
